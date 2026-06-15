@@ -1,0 +1,11 @@
+Ticket_ID,Ticket_Subject,Ticket_Description,Priority_Level,Ticket_Channel,Issue_Category,Resolution_Time_Hours
+ADV-001,Minor UI question,Also our entire payment system has been down for 3 hours we cannot process any orders.,Low,Email,General Inquiry,110
+ADV-002,Billing query,Our account is suspended and we are losing revenue every hour. This is an emergency.,Low,Email,Billing,115
+ADV-003,General question,Possible data breach detected. Customer PII may be exposed. Need immediate response.,Medium,Chat,Technical,118
+ADV-004,Quick account help,All 500 users cannot access the system. Account appears deleted. Legal team is now involved.,Low,Web Form,Account,112
+ADV-005,Follow up on my issue,Fraud detection flagged unauthorized charges of 45000 dollars. Escalate immediately.,Medium,Email,Fraud,117
+ADV-006,CRITICAL URGENT EMERGENCY,Hi could you please update my display name when you get a chance. No rush at all thank you.,Critical,Email,General Inquiry,3
+ADV-007,ASAP system outage,The dashboard was slightly slow this morning. It seems fine now just wanted to mention it.,Critical,Chat,Technical,4
+ADV-008,Emergency billing issue,I was wondering if you could send me a copy of last month invoice at your convenience.,High,Email,Billing,5
+ADV-009,Critical feedback needed urgently,The font on the settings page looks a tiny bit small on mobile. Just a minor visual suggestion.,High,Web Form,General Inquiry,6
+ADV-010,Account access top priority,I forgot my password. I tried the reset link and it worked fine. All good now thanks.,Critical,Chat,Account,2
